@@ -1,7 +1,8 @@
-Jakobs Test
+Jakobs Test erst Abzweigung in GitHub
 
 Ich lerne GitHub
 
 Erste Textdatei
+Ich habe eine erste Branch erstellt
 
 Hier fehtl auch noch eine Zeile
