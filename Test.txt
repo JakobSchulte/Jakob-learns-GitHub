@@ -1,4 +1,4 @@
-Jakobs Test erst Abzweigung in GitHub
+Jakobs Test erst Abzweigung in GitHub ud die zweite Abzweigung
 
 Ich lerne GitHub
 
@@ -6,3 +6,5 @@ Erste Textdatei
 Ich habe eine erste Branch erstellt
 
 Hier fehtl auch noch eine Zeile
+
+Zweite Abzweigung
